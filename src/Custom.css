@@ -1,0 +1,446 @@
+.makeStyles-fixedHeight-15 {
+    height: 470px !important;
+}
+
+/* dashboard index page add css */
+div#p1 {
+    background: blueviolet;
+    color: aliceblue;
+}
+div#p2 {
+    background: #7f89ff;
+    color: aliceblue;
+}
+div#p3 {
+    background: cadetblue;
+    color: aliceblue;
+}
+div#p4 {
+    background: aliceblue;
+    color: black;
+}
+div#p6 {
+    background: aquamarine;
+    color: black;
+}
+div#p5 {
+    background: blue;
+    color: aliceblue;
+}
+div#p7 {
+    background: brown;
+    color: aliceblue;
+}
+div#p8 {
+    background: blueviolet;
+    color: aliceblue;
+}
+
+span.span-order {
+    margin-right: 91%;
+    font-size: 17px;
+}
+
+/* add css in logo */
+span.span-logo-name {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 0% 12% 0% 0%;
+}
+h4.h4-text {
+    font-size: 18px;
+    padding: 0% 88% 0% 0%;
+    color: #6689c9;
+}
+
+/* heroBanner Css */
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+     max-width: 100%; 
+     /* width: 100%; */
+     overflow-x: hidden;
+     /* overflow-y: hidden; */
+    /* background-color: #F6F6F6; */
+    /* padding-right: 37px; */
+    /* overflow: hidden; */
+    
+}
+body::-webkit-scrollbar {
+  width: 1.0em;
+  scroll-behavior: smooth;
+}
+ 
+body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+/* header css  */
+/* nav.navbar.navbar-inverse.showNav {
+  height: 70px;
+} 
+
+/* .viewStyle{
+  width: 70%;
+  height: 353px;
+  position: relative;
+  border-radius: 10px;
+} */
+/* 
+.view_right ul li {
+  list-style: none;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 40px;
+} */
+/* .navbar {
+    position: relative;
+     min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+} */
+
+
+/*  */
+
+/* Edit btn hero banner add css sata*/
+span.edit-btn {
+  margin: 10%;
+}
+
+span.reset-btn {
+  margin-left: 100%;
+  position: absolute;
+  bottom: 57%;
+  right: 30%;
+}
+
+p.p-message {
+  margin-left: 10%;
+}
+
+
+/* doctor dashboard add css */
+/* .div-left-class {
+  position: absolute;
+    width: 50%;
+    margin: 0% 0% 0% 0%;
+} */
+.div-left-class {
+  position: absolute;
+  width: 48%;
+  margin: 5% 0% 0% 1%;
+  /* min-height: 400px; */
+  height: 400px;
+}
+/* .div-right-class {
+  position: absolute;
+  width: 50%;
+  margin: 0% 0% 0% -2%
+} */
+.div-right-class {
+  /* position: absolute;
+  width: 49%;
+  margin: 0% 0% 0% -3%; */
+  position: absolute;
+  width: 49%;
+  margin: 0% 0% 0% -3%;
+  padding: 0% 0% 0% 2%;
+  position: absolute;
+  top: 50%
+}
+
+.div-itmeone-form {
+  /* min-height: 400px; */
+    /* min-height:667px; */
+    /* height: 790px; */
+}
+
+.div-boostrap-table {
+  height: 710px;
+}
+
+.MuiGrid-spacing-xs-1 {
+  width: 105% !important;
+  margin: -4px ;
+  overflow-x: hidden;
+}
+
+img.img-logo {
+  margin-right: 75%;
+}
+.div-logo {
+  padding: 7px 0px 0px 0px;
+}
+
+.div-left-contain {
+  width: 97%;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0% 0% 5% 15%;
+}
+
+.div-right-contain {
+  /* margin-left: 235%; */
+  /* padding: 3% 0% 0% 39%;
+  position: absolute;
+  top: 36%;
+  right: 54%;
+  font-size: 18px;
+  font-weight: 700; */
+  font-size: 18px;
+    font-weight: 700;
+    margin-left: 50%;
+}
+
+span.span-pulldata {
+  background: #EF4444;
+  padding: 3% 4% 5% 4%;
+  border: 2px solid;
+  border-radius: 26px;
+  color: #ffffff;
+  position: relative;
+  right: 10%;
+}
+
+.div-Total-Appointments {
+  padding: 0% 3% 0% 0%;
+  /* width: 90%; */
+  margin-left: 8%;
+  line-height: 125px;
+}
+.div-Pending {
+  padding: 0% 3% 0% 0%;
+  margin-right: 1%;
+  line-height: 125px;
+}
+.div-Completed {
+  width: 95%;
+  margin-left: 0%;
+  line-height: 125px;
+}
+span.span-T-A {
+  font-size: 14px;
+  color: #383737;
+  font-weight: 500;
+}
+
+span.span-T-A {
+  font-size: 14px;
+  color: #383737;
+  font-weight: 500;
+  position: relative;
+  bottom: 18px;
+}
+span.span-pending {
+  font-size: 14px;
+  color: #383737;
+  font-weight: 500;
+  position: relative;
+  bottom: 18px;
+}
+span.span-c {
+  font-size: 14px;
+  color: #383737;
+  font-weight: 500;
+  position: relative;
+  bottom: 18px;
+}
+span.span-appoint {
+  margin-right: 86%;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+spna.span-meeting {
+  margin-right: 65%;
+  font-size: 18px;
+  font-weight: 700;
+  float: left;
+  width: 50%;
+}
+spna.span-panding {
+  /* float: right; */
+  /* width: 0%; */
+  /* width: 0%; */
+  /* margin-left: 6%; */
+  margin-left: 148%;
+  position: relative;
+  bottom: 25px;
+  background: #DD4B34;
+  padding: 2% 10% 2% 10%;
+  color: #fff;
+}
+
+.App {
+  text-align: center !important;
+  overflow: hidden;
+}
+
+input#text-filter-column-name {
+  /* position: absolute;
+  bottom: 92%;
+  right: -3%;
+  width: 96%;
+  margin: 5%; */
+
+  
+  position: absolute;
+  bottom: 93%;
+  right: -5%;
+  width: 97%;
+  margin: 5%
+}
+
+/* meeting add csss  */
+ /* .MuiAppBar-colorPrimary {
+  color: #000 !important;
+  background-color: #E2DFDF !important;
+  position: relative !important;
+  bottom: 11px !important;
+} */
+/* .PrivateTabIndicator-colorSecondary-7 {
+  background-color: #2e7c29 !important;
+}  */
+
+/* .div-right-class {
+  position: absolute;
+  width: 49%;
+  margin: 0% 0% 0% -3%;
+  padding: 0% 0% 0% 1%;
+  position: absolute;
+  top: 90%;
+} */
+
+.div-footer {
+  margin-top: 56%;
+}
+
+
+/* serarch filter add csss start */
+.div-searbar {
+  /* margin: 0% 84% 1% 0%; */
+    /* margin-right: 58%;
+    padding: 0px 0px 8px 0px; */
+}
+/* input.input-searchbar {
+  padding: 6% 260% 6% 260%;
+} */
+
+input.input-searchbar {
+  width: 235%;
+}
+span.span-searchIcon {
+  margin-right: 96%;
+  position: relative;
+  left: 0%;
+  top: 35px;
+
+}
+
+span.searchBTN {
+  position: relative;
+  right: 40%;
+}
+/* enc css */
+
+/* add css user icon in header start */
+/* span.span-user-profile-icon {
+  margin: 0% 0% 0% 0%; 
+  padding: 32% -3%;
+  position: relative;
+  right: 40%;
+} */
+span.span-userIcon {
+  color: aliceblue;
+  border: 1px solid;
+  /* border-radius: 15px;
+  padding: 23% 35% 22% 35%;
+  box-shadow: -2px 2px 1px 1px;
+  position: relative;
+  right: 40%;  */
+}
+/* end code */
+
+/* start pagination add css */
+span.span-pagination-btn {
+  position: relative;
+  top: 92px;
+  left: 44%;
+  font-weight: 300;
+}
+
+div#id-tabs {
+  background: #d3d3d3;
+  color: black;
+}
+
+.MuiAppBar-colorPrimary {
+  color: #fff;
+  /* background-color: #3f51b5; */
+  background: #4F5F75 !important;
+}
+
+/* add create prescription css start */
+.div-main-container-createpres {
+  /* position: absolute;
+    top: 24%;
+    width: 100%; */
+}
+/* end css */
+
+/* precription add csss submit btn start */
+button#submit-btn {
+  margin-top: 65%;
+  margin-left: 1%;
+}
+/* end btn css */
+
+span.span-UserId {
+  margin-right: 91%;
+  font-size: 18px;
+  color: black;
+  position: relative;
+  top: 20px;
+}
+span.span-UserName {
+  margin-right: 82%;
+  font-size: 18px;
+  color: black;
+  position: relative;
+  top: 35px;
+}
+.MuiInputBase-fullWidth {
+  width: 85% !important;
+  position: relative;
+  left: 43%;
+  right: 10%
+}
+
+/* back btn */
+span.span-back-link {
+  background: black;
+  padding: 10px 10px 10px 10px;
+  border-radius: 25px 25px 25px 25px;
+}
+svg.MuiSvgIcon-root {
+  /* color: rgb(67, 74, 80); */
+}
